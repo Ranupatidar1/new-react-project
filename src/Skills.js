@@ -1,7 +1,7 @@
 import React from "react";
 const Skills =() =>{
     return(
-        <div>
+        <div className=" image">
             <h1>skills page</h1>
         </div>
     )
