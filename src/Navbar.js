@@ -9,7 +9,6 @@ const Navbar =()=>{
     <NavLink to = "/" style={{textDecoration: "none"}}><span>HOME </span></NavLink> 
      <NavLink to = "/project" style={{textDecoration: "none"}}><span>PROJECT </span></NavLink> 
       <NavLink to = "/skills" style={{textDecoration: "none"}}><span> SKILLS</span></NavLink>
-      <NavLink to = "/testimonal" style={{textDecoration: "none"}}><span>TESTIMONAL</span></NavLink>
        <NavLink to = "/contact" style={{textDecoration: "none"}}><span>CONTACT</span></NavLink>
       
     </div>
